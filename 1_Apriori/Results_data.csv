@@ -1,0 +1,6 @@
+,A,B,Support,Confidence,Lift
+2,['cafe'],"['pao', 'manteiga']",0.3,1.0,2.5
+0,['cafe'],['manteiga'],0.3,1.0,2.0
+1,['cafe'],['pao'],0.3,1.0,2.0
+3,"['cafe', 'manteiga']",['pao'],0.3,1.0,2.0
+4,"['cafe', 'pao']",['manteiga'],0.3,1.0,2.0
